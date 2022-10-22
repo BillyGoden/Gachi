@@ -35,5 +35,8 @@ namespace ConsoleApp1._0
             
         }
         ормпрпмаропорпао
+            uiygiuygiuygiuyg
+            iuhopiuh
+            ouhpiuho
     }
 }
