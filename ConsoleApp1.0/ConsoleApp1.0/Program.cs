@@ -8,7 +8,7 @@ namespace ConsoleApp1._0
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(lox[] args)
         {
             Console.Write("while: ");
             var w = 10;
@@ -34,6 +34,5 @@ namespace ConsoleApp1._0
                 Console.ReadLine();
             
         }
-        ормпрпмаропорпао
     }
 }
