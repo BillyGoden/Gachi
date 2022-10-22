@@ -33,7 +33,5 @@ namespace ConsoleApp1._0
             //Всё выводиться верно
                 Console.ReadLine();
             
-        }yeryetutujtrutrr
-            555555
-    }
+        }yeryetutujtrutrrhfgjfgjfygkytluyluyluluylyuykluylyu
 }
