@@ -17,13 +17,7 @@ namespace ConsoleApp1._0
                     Console.Write(w + " ");
             //Вот тут всё правильно выводит
             Console.WriteLine();
-            Console.Write("for: ");
-            var f = 10;
-            while (f++ < 99)
-                if ((f % 10) * (f / 10) % 2 == 0)
-                Console.Write(f + " ");
-            // Тут вроде тоже
-            Console.WriteLine();
+            Console.Write("for: ");dfgdfhfdhdfhfgsfdesgeryhrey4ey4w3y4wy4wy5euh35w
             Console.Write("   do: ");
             var d = 10;
             while (d++ < 99)
